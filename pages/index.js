@@ -13,7 +13,7 @@ export default function Home() {
       </Head>
       {/* <ManualHeader /> */}
       <div className="header">
-        <h1>Decenterlized Lottery</h1>
+        <h1>Decentralized Lottery</h1>
         <Header />
       </div>
       <hr />
